@@ -11,7 +11,7 @@ axios.get(url,{
     username: "金星老师"
   }
 })
-.then(function (response) {
+.then(function (res) {
   console.log(res.data);
 })
 .catch(function (error) {
