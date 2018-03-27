@@ -15,7 +15,7 @@ axios是一个基于 promise（关于promise不明白的小伙伴可以看一下
 > * 支持各主流浏览器及 IE8+
 
 #### 3.浏览器兼容性：
-![axios](https://saucelabs.com/u/axios)
+![axios](https://saucelabs.com/open_sauce/build_matrix/axios.svg)
 
 #### 4.安装：
 使用 npm:
