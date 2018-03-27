@@ -14,7 +14,10 @@ axios是一个基于 promise（关于promise不明白的小伙伴可以看一下
 > * 客户端支持防范 XSRF
 > * 支持各主流浏览器及 IE8+
 
-#### 3.安装：
+#### 3.浏览器兼容性：
+![axios](https://saucelabs.com/u/axios)
+
+#### 4.安装：
 使用 npm:
 ```python
 $ npm install axiox
@@ -27,7 +30,7 @@ $ brew install axiox
 ```python
 <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 ```
-#### 4.使用
+#### 5.使用
 ###### Get 方式:
 ```javascript
 axios.get(地址，参数)
